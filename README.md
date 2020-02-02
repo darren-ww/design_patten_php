@@ -107,6 +107,10 @@
 - [装饰模式](https://github.com/darren-ww/design_patten_php/blob/master/src/Decorator.php)
 > 动态的给一个对象添加一些额外的职责，就增加功能来说，装饰模式比生成子类更为灵活。
 
+- [代理模式](https://github.com/darren-ww/design_patten_php/blob/master/src/Proxy.php)
+> 为其他对象提供一种代理以控制对这个对象的访问
+
+
 - [工厂方法模式](https://github.com/darren-ww/design_patten_php/blob/master/src/FactoryMethod.php)
 > 定义一个用于创建对象的接口，让子类决定实例化哪一个类，工厂方法使一个类的实例化延迟到子类
 
@@ -170,8 +174,5 @@
 
 - [访问者模式](https://github.com/darren-ww/design_patten_php/blob/master/src/Visitor.php)
 > 表示一个作用于某对象结构中的各元素的操作，它使你可以在不改变各元素的类的前提下定义作用于这些元素的新操作
-
-- [代理模式](https://github.com/darren-ww/design_patten_php/blob/master/src/Proxy.php)
-> 为其他对象提供一种代理以控制对这个对象的访问
 
 - [状态模式1](https://github.com/darren-ww/design_patten_php/blob/master/src/StateWork.php)
